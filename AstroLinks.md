@@ -7,7 +7,7 @@
 |             |10Micron - Baader site    |Telescope mounts                             |[https://10micron.de/en](https://10micron.de/en){:target = "_blank"}                                                          |
 |             |PlaneWave Instruments     |Telescopes and mounts                        |[https://www.planewave.eu](https://www.planewave.eu){:target = "_blank"}                                                      |
 |Dealers      |(DE) Teleskop Express     |                                             |[https://www.teleskop-express.de](https://www.teleskop-express.de){:target = "_blank"}                                        |
-|             |(DE) Baader Planetarium   |Own products, 10Micron, PWI, …               |[https://www.baader-planetarium.com](https://www.baader-planetarium.com){:target = "_blank"}                                  |
+|             |(DE) Baader Planetarium   |Own products, 10Micron, PWI, and others      |[https://www.baader-planetarium.com](https://www.baader-planetarium.com){:target = "_blank"}                                  |
 |Data sources |Solar Dynamics Observatory|Sat images of the sun in multiple wavelengths|[https://sdo.gsfc.nasa.gov](https://sdo.gsfc.nasa.gov){:target = "_blank"}                                                    |
 |             |SOHO                      |Sat images of the SOHO satellite             |[https://sohowww.nascom.nasa.gov](https://sohowww.nascom.nasa.gov){:target = "_blank"}                                        |
 |Software     |SharpCap                  |Astro imaging software                       |[https://www.sharpcap.co.uk](https://www.sharpcap.co.uk){:target = "_blank"}                                                  |
